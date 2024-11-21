@@ -32,10 +32,9 @@ Coaches can prepare special programs for athletes.
 Diet and training strategies can be developed to increase the performance of athletes.
 
 ## Proposed ML Algorithms
-Suggest a model that is suitable for the type of data and the definition of the problem:
 
 ### For Classification Problems:
-Support Vector Machines (SVM): It is an effective model especially for two-class or multi-class problems.
+- Support Vector Machines (SVM): It is an effective model especially for two-class or multi-class problems.
 - Random Forest: An algorithm based on decision trees that can learn complex relationships between variables.
 ### For Regression Problems:
 - Linear Regression: Simple but effective for understanding the effect of metrics such as height and weight on winning medals.
@@ -55,3 +54,5 @@ Different strategies can be developed for athletes with lower potential. Targete
 Incomplete or incorrect data in the data set can affect the analysis processes. It is important to improve data quality for better results.
 Expanding the data set to different regions or sports branches can make it possible to create a more general model.
 Hyperparameter optimization and model training with more data can be done to increase the accuracy of the proposed models.
+
+To take a deep look in the project you may check out my Kaggle notebook: <a href="https://www.kaggle.com/code/belizyazici/deeplearning-fishdataset/notebook" target="_blank" rel="noreferrer" style="color: #8e44ad;"> Deep Learning Fish Dataset </a>
