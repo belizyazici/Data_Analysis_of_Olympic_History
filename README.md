@@ -72,4 +72,4 @@ The following visualizations were created during the project:
 - Missing values were mainly found in Age, Height, and Weight.
 - Imputed values appropriately to ensure data consistency.
 
-To take a deep look in the project you may check out my Kaggle notebook: <a href="https://www.kaggle.com/code/belizyazici/deeplearning-fishdataset/notebook" target="_blank" rel="noreferrer" style="color: #8e44ad;"> Deep Learning Fish Dataset </a>
+To take a deep look in the project you may check out my Kaggle notebook: <a href="https://www.kaggle.com/code/belizyazici/data-analysis-of-olympic-history" target="_blank" rel="noreferrer" style="color: #8e44ad;"> Data Analysis of 120 Years of Olympic History: Athletes and Results Dataset </a>
