@@ -1,5 +1,7 @@
 # Data Analysis of Olympic History Dataset
-This project involves a comprehensive exploration and analysis of the <b> 120 Years of Olympic History: Athletes and Results </b> dataset. 
+This project involves a comprehensive exploration and analysis of the <b> 120 Years of Olympic History: Athletes and Results </b> dataset.
+
+![image](https://github.com/user-attachments/assets/517c1f73-1236-4d59-96a2-55d474165d2f)
 
 ## Table of Contents
 <ol>
